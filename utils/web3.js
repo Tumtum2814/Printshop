@@ -7,7 +7,10 @@ const providerOptions = {
   walletconnect: {
     package: WalletConnectProvider,
     options: {
-      infuraId: '196440d5d02d41dfa2a8ee5bfd2e96bd',
+      //Printshop Infura ID
+        infuraId: 'f02da5c5f4fe4dfab4bc0eca1ec989b5',
+      // NFTHack Infura ID
+      // infuraId: '196440d5d02d41dfa2a8ee5bfd2e96bd',
     },
   },
 };
